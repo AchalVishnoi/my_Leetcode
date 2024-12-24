@@ -38,10 +38,11 @@ class Solution {
             carry=res/10;
            if(p1!=null)  p1=p1.next;
            if(p2!=null) p2=p2.next;
-
-           if(p1==null&&carry==0) current.next=p2;
-           else if(p2==null&&carry==0) current.next=p1; 
-           else current.next= solve( carry,p1,p2);
+           //    if(p1==null&&carry==0) current.next=p2;         // save time if extra
+        //    else if(p2==null&carry==0 ) current.next=p1; 
+        //   else
+  
+          current.next= solve( carry,p1,p2);
 
           return current;
 
