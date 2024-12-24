@@ -10,7 +10,7 @@ public int lengthOfLongestSubstring(String s) {
            int left=0;
          for(int right=0;right<n;right++){
             if(m.containsKey(s.charAt(right))){
-                left=Math.max (left,m.get(s.charAt(right))+1);
+                left=Math.max (left,m.get(s.charAt(right))+1);      //if left already greater
              
 
             } 
