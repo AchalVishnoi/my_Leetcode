@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
