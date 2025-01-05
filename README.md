@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
 | [0128-longest-consecutive-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -111,8 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
+| [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 <!---LeetCode Topics End-->
