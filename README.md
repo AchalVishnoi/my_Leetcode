@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Prefix Sum
 |  |
 | ------- |
