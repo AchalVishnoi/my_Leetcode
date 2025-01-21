@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
