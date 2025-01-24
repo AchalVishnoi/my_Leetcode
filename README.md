@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0206-reverse-linked-list) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0287-find-the-duplicate-number) |
