@@ -73,12 +73,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0231-power-of-two) |
