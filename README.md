@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Design
 |  |
