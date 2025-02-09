@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## String
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Design
 |  |
