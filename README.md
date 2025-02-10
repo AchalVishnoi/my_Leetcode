@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Linked List
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
+| [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
+| [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 ## Doubly-Linked List
 |  |
 | ------- |
