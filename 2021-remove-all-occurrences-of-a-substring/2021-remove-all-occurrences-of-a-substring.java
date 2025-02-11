@@ -28,7 +28,7 @@ class Solution {
       return str.toString();  
     }
 }*/
-
+/*   using arraylist
 class Solution {
     public String removeOccurrences(String s, String part) {
         List<Character> st = new ArrayList<>();
@@ -60,5 +60,21 @@ class Solution {
             result.append(ch);
         }
         return result.toString();
+    }
+}
+*/
+
+
+//without any extra space
+class Solution {
+    public String removeOccurrences(String s, String part) {
+        StringBuilder sb = new StringBuilder(s);
+        
+        int idx;
+        while ((idx = sb.indexOf(part)) != -1) {
+            sb.delete(idx, idx + part.length());
+        }
+        
+        return sb.toString();
     }
 }
