@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0014-longest-common-prefix) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0206-reverse-linked-list) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0338-counting-bits) |
