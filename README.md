@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0231-power-of-two) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0131-palindrome-partitioning](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0338-counting-bits) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Trie
