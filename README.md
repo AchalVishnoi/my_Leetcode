@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0063-unique-paths-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0377-combination-sum-iv) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Brainteaser
