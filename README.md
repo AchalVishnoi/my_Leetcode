@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 ## Greedy
