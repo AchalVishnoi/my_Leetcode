@@ -16,7 +16,7 @@ class Solution {
 
          for(int i=k;i<b.length();i++){
            if(b.charAt(i)=='W') cnt++;
-           if(j<b.length())
+           
            if(b.charAt(j)=='W') cnt--;
            j++;
            wcnt=Math.min(wcnt,cnt);
