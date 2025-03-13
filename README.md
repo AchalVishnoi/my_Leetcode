@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
+| [1206-corporate-flight-bookings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1206-corporate-flight-bookings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
