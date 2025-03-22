@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
@@ -500,10 +503,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Number Theory
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
