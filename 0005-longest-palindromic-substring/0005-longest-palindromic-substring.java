@@ -28,6 +28,6 @@ class Solution {
             left--;
             right++;
         }
-        return (right-1) - (left+1)+ 1; // Length of the palindrome.
+        return (right-1) - (left+1)+ 1; 
     }
 }
