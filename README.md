@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
+| [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 | [1206-corporate-flight-bookings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 | [1160-letter-tile-possibilities](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1955-seat-reservation-manager) |
@@ -464,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
 ## Combinatorics
 |  |
