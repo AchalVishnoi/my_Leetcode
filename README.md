@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sorting
 |  |
 | ------- |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
 | [1955-seat-reservation-manager](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1955-seat-reservation-manager) |
