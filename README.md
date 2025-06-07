@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Trie
 |  |
 | ------- |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1955-seat-reservation-manager](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
 |  |
 | ------- |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 ## Doubly-Linked List
 |  |
