@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 ## Sorting
 |  |
