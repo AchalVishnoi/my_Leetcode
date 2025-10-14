@@ -14,31 +14,27 @@
  * }
  */
  class Solution {
+    int sum=0;
     public int sumNumbers(TreeNode root) {
-        List<StringBuilder> paths = find(root);
-        int total = 0;
-        for (StringBuilder sb : paths) {
-            total += Integer.parseInt(sb.toString());
-        }
-        return total;
+         find(root,0);
+         return sum;
     }
 
-    private List<StringBuilder> find(TreeNode root) {
-        List<StringBuilder> result = new ArrayList<>();
-        if (root == null) return result;
+    private void find(TreeNode root,int num) {
+        
+        if (root == null) return;
 
-        if (root.left == null && root.right == null) {
-            result.add(new StringBuilder().append(root.val));
-            return result;
+        num=num*10+root.val;
+        if(root.left==null&&root.right==null){
+            sum+=num;
+            return;
         }
 
-        for (StringBuilder sb : find(root.left)) {
-            result.add(new StringBuilder().append(root.val).append(sb));
-        }
-        for (StringBuilder sb : find(root.right)) {
-            result.add(new StringBuilder().append(root.val).append(sb));
-        }
+        find(root.left,num);
+        find(root.right,num);
 
-        return result;
+
+
+        
     }
 }
