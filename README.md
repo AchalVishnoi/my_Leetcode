@@ -398,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
@@ -594,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
