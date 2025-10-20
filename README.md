@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2262-solving-questions-with-brainpower](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
