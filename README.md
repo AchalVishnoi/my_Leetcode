@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -680,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Topological Sort
 |  |
 | ------- |
