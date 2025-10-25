@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2288-count-operations-to-obtain-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2448-count-number-of-bad-pairs) |
