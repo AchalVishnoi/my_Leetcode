@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -653,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
