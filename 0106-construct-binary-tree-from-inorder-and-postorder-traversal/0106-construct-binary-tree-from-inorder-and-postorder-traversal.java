@@ -14,39 +14,36 @@
  * }
  */
 class Solution {
-    
-    int pi;
-
-    public TreeNode buildTree(int[] in, int[] po) {
-
-    HashMap <Integer ,Integer> h =new HashMap<>();
-    for(int i=0;i<in.length;i++){
-      h.put(in[i],i);
+    int i = 0;
+    public TreeNode buildTree(int[] in, int[] post) {
+        int n = post.length;
+        i = n - 1;
+        return find(0, n - 1, post, in);
     }
 
-    pi=po.length-1;
+    public TreeNode find(int st, int end, int[] post, int[] in) {
+        if (st > end) return null;
 
-    TreeNode root =find(h,0,in.length-1,po);
+        int rootVal = post[i];
+        int j = st;
+        while (j <= end) {
+            if (in[j] == rootVal) break;
+            j++;
+        }
+        if (j > end) return null;
 
-    return root;
+        i--;
 
-        
-    }
+        TreeNode right = find(j + 1, end, post, in);
+        TreeNode left = find(st, j - 1, post, in);
 
-    public TreeNode find( HashMap <Integer ,Integer> h, int st,int end, int po[]){
-     
-    if(st>end) return null;
-    if(pi<0||pi>=po.length) return null;
-    
-    TreeNode r=new TreeNode(po[pi]);
-    int idx=h.get(po[pi]);
-     pi--;
-      
-      
-      r.right=find(h,idx+1,end,po);
-      r.left=find(h,st,idx-1,po);
+        TreeNode r = new TreeNode(rootVal);
 
-     return r;
+        r.left=left;
+        r.right=right;
 
+       
+
+        return r;
     }
 }
