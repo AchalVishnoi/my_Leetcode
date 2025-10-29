@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
 | [1170-shortest-common-supersequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -638,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -685,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1465-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1465-maximum-product-of-splitted-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
