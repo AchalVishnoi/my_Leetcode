@@ -1,13 +1,11 @@
 class Solution {
     public int smallestNumber(int n) {
+
+        int i=1;
+        while(i<=n){
+            i<<=1;
+        }
+        return i-1;
         
-    int ans=1;
-    while(ans<=n){
-       ans= ans<<1;
-    }
-    return ans-1;
-
-
-
     }
 }
