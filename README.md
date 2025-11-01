@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0377-combination-sum-iv) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
+| [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1170-shortest-common-supersequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
+| [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1160-letter-tile-possibilities](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
+| [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -597,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 ## Breadth-First Search
 |  |
