@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
+| [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
