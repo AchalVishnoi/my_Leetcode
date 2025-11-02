@@ -24,15 +24,8 @@ class Solution {
 
       if(root.left==null&&root.right==null){
         track^=(1<<root.val);
-        if(track==0) ans++;
-        else{
-            for(int i=0;i<=9;i++){
-                if(track==(1<<i)){
-                    ans++;
-                    break;
-                }
-            }
-        }
+        if(track==0||(track&(track-1))==0) ans++;
+        
         return;
       }  
 
