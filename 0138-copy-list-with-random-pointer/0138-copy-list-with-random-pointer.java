@@ -26,7 +26,7 @@ class Solution {
 
       
 
-      Node n=new Node(head.val,null,null);
+      Node n=new Node(head.val);
       h.put(head,n);
       n.next=copy(head.next);
       n.random=copy(head.random);
