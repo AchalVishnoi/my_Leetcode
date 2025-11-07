@@ -19,28 +19,26 @@ class Solution {
         }
 
         */
-
-        boolean isFind[]=new boolean[n];
         Queue<Integer> q=new LinkedList<>();
         int num=0;
         for(int i=0;i<n;i++){
             if(cnt[i]==0){
                 q.add(i);
+                num++;
             }
         }
 
         while(!q.isEmpty()){
             int a=q.poll();
-            if(!isFind[a]){
-                num++;
-                isFind[a]=true;
-            }
-            else return false;
+            
 
            if(adj.get(a)!=null){
             for(int i:adj.get(a)){
                 cnt[i]--;
-                if(cnt[i]==0) q.add(i);
+                if(cnt[i]==0){
+                     q.add(i);
+                     num++;
+                }
             }
            }
 
