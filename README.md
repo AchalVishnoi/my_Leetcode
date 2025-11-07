@@ -396,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0652-find-duplicate-subtrees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0687-longest-univalue-path](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0687-longest-univalue-path) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0513-find-bottom-left-tree-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
@@ -790,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
