@@ -59,7 +59,7 @@ class Solution {
             vis[city] =true;
             for(int j=0;j<n;j++){
                 if(vis[j]) continue;
-                if(isC[city][j]==1)
+                if(isC[city][j]==1||isC[j][city]==1)
                 q.add(j);
             }
 
