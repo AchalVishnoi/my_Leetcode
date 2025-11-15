@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2625-increment-submatrices-by-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2625-increment-submatrices-by-one) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0687-longest-univalue-path) |
+| [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0801-is-graph-bipartite) |
@@ -655,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
