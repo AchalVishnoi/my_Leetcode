@@ -7,16 +7,15 @@ class Solution {
         par=new int[n];
         for(int i=0;i<n;i++) par[i]=i;
 
-        int cnt=0;
         for(int a[]:con){
             union(a[0],a[1]);
         }
-        Set<Integer> s=new HashSet<>();
+        int cnt=0;
         for(int i=0;i<n;i++){
-            s.add(find(i));
+            if(i==par[i]) cnt++;
         }
 
-        return s.size()-1;
+        return cnt-1;
         
     }
 
