@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0133-clone-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -651,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
