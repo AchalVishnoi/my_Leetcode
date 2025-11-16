@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Backtracking
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1731-even-odd-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1731-even-odd-tree) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Number Theory
