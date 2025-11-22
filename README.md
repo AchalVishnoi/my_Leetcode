@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
