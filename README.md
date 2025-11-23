@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
 | [1206-corporate-flight-bookings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1206-corporate-flight-bookings) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1170-shortest-common-supersequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
