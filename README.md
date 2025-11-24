@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
