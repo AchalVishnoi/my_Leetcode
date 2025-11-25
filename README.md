@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1207-delete-nodes-and-return-forest](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0342-power-of-four) |
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
