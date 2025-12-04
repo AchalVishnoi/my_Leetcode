@@ -9,7 +9,7 @@ class Solution {
             else st.append(c);
         }
 
-        return String.valueOf(st);
+        return st.toString();
         
     }
 }
