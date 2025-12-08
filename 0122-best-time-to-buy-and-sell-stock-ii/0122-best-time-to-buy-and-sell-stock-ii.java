@@ -11,7 +11,7 @@ class Solution {
           s[i]=Math.max(b[i-1]+p[i],s[i-1]);
         }
 
-        return Math.max(b[n-1],s[n-1]);
+        return s[n-1];
 
 
 
