@@ -3,9 +3,8 @@ class Solution {
         int ans=0;
         for(int i=1;i<=n;i++){
             for(int j=i+1;j<=n;j++){
-              for(int k=j+1;k<=n;k++){
-                if(i*i+j*j==k*k) ans+=2;
-              }
+              int c=(int)Math.sqrt(i*i+j*j);
+              if(c*c==i*i+j*j&&c<=n) ans+=2;
             }
         }
 
