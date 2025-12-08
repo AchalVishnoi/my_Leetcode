@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1170-shortest-common-supersequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
