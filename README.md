@@ -959,4 +959,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
