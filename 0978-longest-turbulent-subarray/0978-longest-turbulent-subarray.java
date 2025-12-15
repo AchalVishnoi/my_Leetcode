@@ -3,33 +3,26 @@ class Solution {
 
 
      int n=arr.length;
-
-     if(n==2){
-        if(arr[0]==arr[1]) return 1;
-        else return 2;
-     } 
-
-     int curr=1;
-
-     
-     
-     int j=0;
-     
-     for(int i=2;i<n;i++ ){
-        if((arr[i-1]<arr[i-2]&&arr[i]>arr[i-1])
-        ||(arr[i-1]>arr[i-2]&&arr[i]<arr[i-1]))
-        {
-          curr=Math.max(i-j+1,curr);  
-          continue;
+     int up=1;
+     int down=1;
+     int res=1;
+     for(int i=1;i<n;i++){
+        if(arr[i]>arr[i-1]){
+            up=down+1;
+            down=1;
         }
+        else if(arr[i]<arr[i-1]){
+            down=up+1;
+            up=1;
+        }
+        else up=down=1;
 
-        else j=i-1;
+        res=Math.max(up,res);
+        res=Math.max(down,res);
+     }
 
-        if(arr[i-1]!=arr[i-2]||arr[i]!=arr[i-1]) curr=Math.max(2,curr);
-     } 
+     return res;
 
-
-     return curr;
 
     }
 }
