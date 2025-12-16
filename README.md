@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0553-optimal-division](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0553-optimal-division) |
+| [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
+| [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [1955-seat-reservation-manager](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1955-seat-reservation-manager) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
