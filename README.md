@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
+| [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Depth-First Search
 |  |
