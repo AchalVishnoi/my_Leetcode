@@ -13,7 +13,6 @@ class Solution {
                }
            }
 
-           if(x==n) break;
            if(x>1) sum+=x;
            if(sum==n) break;
 
