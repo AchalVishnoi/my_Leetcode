@@ -13,7 +13,9 @@ class Solution {
                }
            }
 
-           if(x%n==0||sum==n) break;
+           if(x==n) break;
+           if(x>1) sum+=x;
+           if(sum==n) break;
 
            n=sum;
 
