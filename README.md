@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0931-minimum-falling-path-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [0978-longest-turbulent-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0978-longest-turbulent-subarray) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0650-2-keys-keyboard](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0931-minimum-falling-path-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0935-knight-dialer) |
 | [0978-longest-turbulent-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1035-uncrossed-lines](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1035-uncrossed-lines) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
+| [0931-minimum-falling-path-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1022-unique-paths-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1022-unique-paths-iii) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
