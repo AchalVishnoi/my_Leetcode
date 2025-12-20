@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [0978-longest-turbulent-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0583-delete-operation-for-two-strings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
