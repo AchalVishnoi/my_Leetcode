@@ -1,32 +1,33 @@
 class Solution {
     int ans=0;
-    Integer t[][];
+    int t[][];
     public int tallestBillboard(int[] rods) {
 
-        t=new Integer[21][10001];
 
-        return find(rods,0,5000)/2;
+        int n=rods.length;
+        t=new int[n+1][10001];
+
+        for(int i=0;i<=10000;i++){
+            t[n][i]= i==5000?0:Integer.MIN_VALUE/2;
+        }
+
+        for(int i=n-1;i>=0;i--){
+            for(int diff=0;diff<=10000;diff++){
+                t[i][diff]=t[i+1][diff];
+                if(diff+rods[i]<=10000)
+                t[i][diff]=Math.max(t[i][diff],t[i+1][diff+rods[i]]+rods[i]);
+
+                if(diff-rods[i]>=0)
+                t[i][diff]=Math.max(t[i][diff],t[i+1][diff-rods[i]]+rods[i]);
+                
+            }
+        }
+
+
+        return t[0][5000]/2;
+
+
         
     }
-    public int find(int []rod,int i,int diff){
 
-     if(i>=rod.length){
-        if(diff==5000) return 0;
-        return Integer.MIN_VALUE;
-     }   
-
-     if(t[i][diff]!=null) return t[i][diff];
-
-
-     
-
-     int notTake=find(rod,i+1,diff);
-     int take=Math.max(find(rod,i+1,diff+rod[i]),find(rod,i+1,diff-rod[i]))+rod[i];
-
-     return  t[i][diff]= Math.max(notTake,take);
-      
-
-
-
-    }
 }
