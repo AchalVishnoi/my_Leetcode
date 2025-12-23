@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2262-solving-questions-with-brainpower](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
@@ -746,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [1955-seat-reservation-manager](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1955-seat-reservation-manager) |
+| [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Stack
