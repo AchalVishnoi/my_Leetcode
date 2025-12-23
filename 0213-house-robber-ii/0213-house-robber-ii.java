@@ -1,24 +1,24 @@
 class Solution {
-    public int rob(int[] nums) {
-        if(nums.length==1) return nums[0];
+    public int rob(int[] sl) {
 
-        return Math.max(rob(nums,0,nums.length-2),rob(nums,1,nums.length-1));
-     }
+        int n=sl.length;
+        if(n==1) return sl[0];
 
-     public int rob(int[] nums,int st, int end) {
 
-       int n=end-st+1;
-       int t[]=new int[n+1];
-       t[0]=0;
-       t[1]=nums[st];
-       for(int i=2;i<n+1;i++){
-        int skip=t[i-1];
-        int steal=t[i-2]+nums[st+i-1];
-        t[i]=Math.max(skip,steal);
-       }
+        int dp1[]=new int[n+1];
+        int dp2[]=new int[n+1];
 
-       return t[n];
-        
+        for(int i=n-2;i>=0;i--){
+           dp1[i]=Math.max(dp1[i+1],dp1[i+2]+sl[i]);
+        }
+        dp2[n-1]=sl[n-1];
+
+        for(int i=n-2;i>=1;i--){
+           dp2[i]=Math.max(dp2[i+1],dp2[i+2]+sl[i]);
+        }
+
+        return Math.max(dp1[0],dp2[1]);
+
+
     }
-
 }
