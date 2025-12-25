@@ -22,25 +22,22 @@ class Solution {
         
     }
 
-    private int calNum(int bit[]){
-        int num=0;
-        for(int i=0;i<32;i++ ){
-            if(bit[i]>0) num+=(1<<i);
-        }
 
-        return num;
-    }
 
     private int decBit(int bit[],int num){
+      int n=0;  
       for(int i=0;i<32;i++){
         if((num&(1<<i))!=0) bit[i]--;
+        if(bit[i]>0) n|=(1<<i);
       }
-      return calNum(bit);
+      return n;
     }
     private int incBit(int bit[],int num){
+      int n=0;
       for(int i=0;i<32;i++){
         if((num&(1<<i))!=0) bit[i]++;
+        if(bit[i]>0) n|=(1<<i);
       }
-      return calNum(bit);
+      return n;
     }
 }
