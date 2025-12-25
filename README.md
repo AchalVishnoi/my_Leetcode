@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2478-longest-nice-subarray) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
 |  |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3394-minimum-array-end) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
