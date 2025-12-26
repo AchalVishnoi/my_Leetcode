@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2625-increment-submatrices-by-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
