@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
 | [0991-broken-calculator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1388-pizza-with-3n-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -816,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
