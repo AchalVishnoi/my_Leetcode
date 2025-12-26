@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0066-plus-one) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0072-edit-distance) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0397-integer-replacement) |
