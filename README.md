@@ -1035,6 +1035,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
+| [1791-find-center-of-star-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1791-find-center-of-star-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
