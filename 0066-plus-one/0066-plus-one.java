@@ -1,20 +1,28 @@
 class Solution {
-    public int[] plusOne(int[] d) {
-        int n = d.length;
-        int[] res = new int[n + 1];
-        int carry = (d[n - 1] + 1) / 10;
-        res[n] = (d[n - 1] + 1) % 10;
+    public int[] plusOne(int[] dig) {
+     
 
-        for (int i = n - 2; i >= 0; i--) {
-            res[i + 1] = (d[i] + carry) % 10;
-            carry = (d[i] + carry) / 10;
-        }
 
-        if (carry > 0) {
-            res[0] = carry;
-            return res;
-        }
+     int n=dig.length;
+     int ans[]=new int [n+1];
+     int crr=(dig[n-1]+1)/10;
+     ans[n]=(dig[n-1]+1)%10;
+     int i=n-1;
+     while(i>=1){
+        ans[i]=(dig[i-1]+crr)%10;
+         crr=(dig[i-1]+crr)/10;
+        i--;
+     }
 
-        return Arrays.copyOfRange(res, 1, n + 1);
+     if(crr>0){
+
+        ans[0]=crr;
+        return ans;
+
+     }
+
+
+    return Arrays.copyOfRange(ans,1,n+1);
+
     }
 }
