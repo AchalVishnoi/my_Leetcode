@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1388-pizza-with-3n-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1388-pizza-with-3n-slices) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
