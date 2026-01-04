@@ -1,5 +1,5 @@
 class Solution {
-    static Integer[] div=new Integer[1000000];
+    static Integer[] div=new Integer[100001];
     public int sumFourDivisors(int[] nums) {
 
         int sum=0;
