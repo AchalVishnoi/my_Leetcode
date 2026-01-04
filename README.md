@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1388-pizza-with-3n-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1388-pizza-with-3n-slices) |
+| [1390-four-divisors](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1390-four-divisors) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+| [1390-four-divisors](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1390-four-divisors) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
