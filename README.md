@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1306-jump-game-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1306-jump-game-iii) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -940,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -999,6 +1001,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1254-deepest-leaves-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1275-validate-binary-tree-nodes) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1450-delete-leaves-with-a-given-value) |
