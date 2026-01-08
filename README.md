@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1388-pizza-with-3n-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1390-four-divisors](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1390-four-divisors) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-maximum-score-words-formed-by-letters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1388-pizza-with-3n-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1388-pizza-with-3n-slices) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1535-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
