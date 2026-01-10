@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1975-maximum-matrix-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -695,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -962,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1731-even-odd-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1024,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1731-even-odd-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1731-even-odd-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
