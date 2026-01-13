@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0216-combination-sum-iii) |
+| [0221-maximal-square](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0695-max-area-of-island) |
