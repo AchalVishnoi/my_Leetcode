@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
@@ -752,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3394-minimum-array-end](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3394-minimum-array-end) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Prefix Sum
