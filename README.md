@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0553-optimal-division](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0553-optimal-division) |
 | [0630-course-schedule-iii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0630-course-schedule-iii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -593,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
