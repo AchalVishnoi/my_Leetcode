@@ -1,6 +1,5 @@
 class Solution {
     int[] s1 = new int[100001]; 
-    int[] s2 = new int[100001];
     public int longestBalanced(int[] nums) {
 
         int n=nums.length;
@@ -21,8 +20,8 @@ class Solution {
                     }
                 }
                 else{
-                    if(s2[val]!=timer){
-                        s2[val]=timer;
+                    if(s1[val]!=timer){
+                        s1[val]=timer;
                         odd++;
                     }
                 }
