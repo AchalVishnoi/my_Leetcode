@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3606-coupon-code-validator) |
+| [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Math
 |  |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3616-make-array-elements-equal-to-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1159,4 +1163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
