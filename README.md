@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1390-four-divisors) |
 | [1435-xor-queries-of-a-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1582-design-browser-history](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1582-design-browser-history) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
