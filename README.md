@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0093-restore-ip-addresses) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0067-add-binary) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0067-add-binary) |
 | [0137-single-number-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
