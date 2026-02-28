@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3418-count-pairs-that-form-a-complete-day-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3418-count-pairs-that-form-a-complete-day-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3394-minimum-array-end](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3394-minimum-array-end) |
@@ -1172,6 +1174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1925-count-square-sum-triples) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3713-longest-balanced-substring-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
