@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-the-number-of-beautiful-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2696-the-number-of-beautiful-subsets) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3606-coupon-code-validator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1044,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1112,6 +1115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
