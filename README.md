@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2107-find-unique-binary-string](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2187-minimum-time-to-complete-trips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2262-solving-questions-with-brainpower](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
+| [2187-minimum-time-to-complete-trips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3427-special-array-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3427-special-array-ii) |
