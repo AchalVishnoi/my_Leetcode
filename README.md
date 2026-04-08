@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3639-zero-array-transformation-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [3447-clear-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Memoization
 |  |
