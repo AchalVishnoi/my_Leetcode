@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0140-word-break-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -868,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
@@ -891,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
