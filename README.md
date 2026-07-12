@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0376-wiggle-subsequence](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0376-wiggle-subsequence) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1285-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0729-my-calendar-i) |
 | [0955-complete-binary-tree-inserter](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0955-complete-binary-tree-inserter) |
 | [1097-stream-of-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1097-stream-of-characters) |
@@ -1264,6 +1267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0729-my-calendar-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Ordered Set
@@ -1278,4 +1282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
