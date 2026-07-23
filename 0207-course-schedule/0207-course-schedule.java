@@ -1,70 +1,38 @@
 class Solution {
-    public boolean canFinish(int n, int[][] pre) {
+    public boolean canFinish(int n, int[][] p) {
 
-        Map<Integer,List<Integer>> adj=new HashMap<>();
-        int cnt[]=new int[n];
-        for(int []p:pre){
-            List <Integer> l=adj.getOrDefault(p[1],new ArrayList<>());
-            l.add(p[0]);
-            adj.put(p[1],l);
-            cnt[p[0]]++;
-        }
-     /* boolean vis[]=new boolean[n];
-        boolean recvis[]=new boolean[n];
-        
-        for(int i=0;i<n;i++){
-            if(vis[i]) continue;
-            if(!find(adj,vis,recvis,i)) return false;
+        ArrayList<Integer> a[]=new ArrayList[n];
+        int it[]=new int[n];
+        int st=-1;
+        for(int i=0;i<p.length;i++){
+            if(a[p[i][1]]==null) a[p[i][1]]=new ArrayList<>();
+            List<Integer> l1=a[p[i][1]];
             
+            l1.add(p[i][0]);
+            it[p[i][0]]++;
         }
-
-        */
         Queue<Integer> q=new LinkedList<>();
-        int num=0;
+        
         for(int i=0;i<n;i++){
-            if(cnt[i]==0){
+            if(it[i]==0){
                 q.add(i);
-                num++;
             }
         }
-
+        int cnt=0;
         while(!q.isEmpty()){
-            int a=q.poll();
-            
 
-           if(adj.get(a)!=null){
-            for(int i:adj.get(a)){
-                cnt[i]--;
-                if(cnt[i]==0){
-                     q.add(i);
-                     num++;
-                }
+            int u=q.poll();
+            cnt++;
+            if(a[u]==null)continue;
+            for(int v:a[u]){
+                it[v]--;
+                if(it[v]==0) q.add(v);
             }
-           }
-
+            
         }
 
-        if(num!=n) return false;
-        return true;
+        if(cnt==n) return true;
+        return false;
         
-    }
-
-    public boolean find(Map<Integer,List<Integer>> adj,boolean []vis,boolean[] recvis,int u){
-
-        
-        if(recvis[u]) return false;
-        if(vis[u]) return true;
-        
-        vis[u]=true;
-        if(adj.get(u)==null) return true;
-        recvis[u]=true;
-        
-        for(int v:adj.get(u)){
-           if(!find(adj,vis,recvis,v)) return false;
-        }
-        recvis[u]=false;
-
-        return true;
-
     }
 }
