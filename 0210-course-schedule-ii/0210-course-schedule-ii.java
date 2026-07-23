@@ -1,55 +1,41 @@
 class Solution {
-    int ans[];
-    int i=0;
-    Stack<Integer> s=new Stack<>();
-    
-    public int[] findOrder(int n, int[][] pre) {
-        ans=new int[n];
+    public int[] findOrder(int n, int[][] p) {
+        ArrayList<Integer> a[]=new ArrayList[n];
+        int it[]=new int[n];
+        int st=-1;
 
-        Map<Integer,List<Integer>> adj=new HashMap<>();
-        for(int []p:pre){
-            List <Integer> l=adj.getOrDefault(p[1],new ArrayList<>());
-            l.add(p[0]);
-            adj.put(p[1],l);
+        for(int i=0;i<p.length;i++){
+            if(a[p[i][1]]==null) a[p[i][1]]=new ArrayList<>();
+            List<Integer> l1=a[p[i][1]];
+            
+            l1.add(p[i][0]);
+            it[p[i][0]]++;
         }
-        boolean vis[]=new boolean[n];
-        boolean recvis[]=new boolean[n];
+        Queue<Integer> q=new LinkedList<>();
+        int j=0;
         
+        int ans[]=new int[n];
         for(int i=0;i<n;i++){
-            if(vis[i]) continue;
-            if(!find(adj,vis,recvis,i)) return new int[]{};
+            if(it[i]==0){
+                q.add(i);
+            }
+        }
+        int cnt=0;
+        while(!q.isEmpty()){
+            int u=q.poll();
+
+            ans[j++]=u;
+            cnt++;
+            if(a[u]==null)continue;
+            for(int v:a[u]){
+                it[v]--;
+                if(it[v]==0) q.add(v);
+            }
             
         }
 
-        while(!s.isEmpty()){
-          ans[i++]=s.pop();
-        }
-
+        if(cnt<n) return new  int[]{};
         return ans;
-
         
-    }
-
-    public boolean find(Map<Integer,List<Integer>> adj,boolean []vis,boolean[] recvis,int u){
-        
-        if(recvis[u]) return false;
-        if(vis[u]) return true;
-        
-        vis[u]=true;
-        
-        recvis[u]=true;
-
-        if(adj.containsKey(u)){
-         for(int v:adj.get(u)){
-            if(!find(adj,vis,recvis,v)) return false;
-         }
-        }
-        
-
-        recvis[u]=false;
-        s.add(u);
-
-        return true;
-
     }
 }
