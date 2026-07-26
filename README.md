@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0319-bulb-switcher) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0289-game-of-life) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -1222,6 +1224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0258-add-digits) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
