@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0553-optimal-division](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0553-optimal-division) |
 | [0650-2-keys-keyboard](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0667-beautiful-arrangement-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0667-beautiful-arrangement-ii) |
+| [0837-new-21-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0837-new-21-game) |
 | [0991-broken-calculator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0991-broken-calculator) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0413-arithmetic-slices) |
+| [0837-new-21-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0837-new-21-game) |
 | [0978-longest-turbulent-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0978-longest-turbulent-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0664-strange-printer) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0837-new-21-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0837-new-21-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0935-knight-dialer) |
 | [0956-tallest-billboard](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0956-tallest-billboard) |
@@ -1319,4 +1322,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0837-new-21-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
