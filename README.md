@@ -1287,6 +1287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1164-product-price-at-a-given-date) |
+| [1193-monthly-transactions-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1341-movie-rating) |
