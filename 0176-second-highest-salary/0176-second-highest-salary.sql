@@ -1,6 +1,6 @@
-SELECT (
-    SELECT DISTINCT salary
-    FROM Employee
-    ORDER BY salary DESC
-    LIMIT 1 OFFSET 1
-) AS SecondHighestSalary;
+with t as (
+    select salary, dense_rank() over(order by salary desc) as rn
+    from Employee
+)
+
+select (select distinct salary from t where rn = 2) as SecondHighestSalary 
