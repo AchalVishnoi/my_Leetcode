@@ -1,14 +1,6 @@
-WITH cte AS (
-    SELECT
-        salary,
-        DENSE_RANK() OVER (
-            ORDER BY salary DESC
-        ) AS rn
-    FROM Employee
-)
 SELECT (
-    SELECT salary
-    FROM cte
-    WHERE rn = 2
-    LIMIT 1
+    SELECT DISTINCT salary
+    FROM Employee
+    ORDER BY salary DESC
+    LIMIT 1 OFFSET 1
 ) AS SecondHighestSalary;
