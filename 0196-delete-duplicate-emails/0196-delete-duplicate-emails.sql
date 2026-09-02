@@ -1,5 +1,6 @@
 # Write your MySQL query statement below
-with t as (select email, min(id) as id from Person group by email)
-
-delete from Person p
-where p.id != (select id from t where email=p.email)
+DELETE p1
+FROM Person p1
+JOIN Person p2
+    ON p1.email = p2.email
+    AND p1.id > p2.id;
