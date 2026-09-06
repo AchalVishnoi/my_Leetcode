@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3583-count-special-triplets) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3606-coupon-code-validator](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 | [3840-house-robber-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3840-house-robber-v) |
 ## Greedy
 |  |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2662-check-knight-tour-configuration) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3603-minimum-cost-path-with-alternating-directions-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3603-minimum-cost-path-with-alternating-directions-ii) |
 ## Simulation
 |  |
 | ------- |
