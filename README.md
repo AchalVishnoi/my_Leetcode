@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3719-longest-balanced-subarray-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3840-house-robber-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3840-house-robber-v) |
 ## Hash Table
 |  |
 | ------- |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-partition-string-into-minimum-beautiful-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/2767-partition-string-into-minimum-beautiful-substrings) |
 | [3144-minimum-substring-partition-of-equal-character-frequency](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3144-minimum-substring-partition-of-equal-character-frequency) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3840-house-robber-v](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3840-house-robber-v) |
 ## Greedy
 |  |
 | ------- |
