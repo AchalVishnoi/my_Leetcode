@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0664-strange-printer) |
 | [0696-count-binary-substrings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0940-distinct-subsequences-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0952-word-subsets](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/AchalVishnoi/my_Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-new-21-game](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0837-new-21-game) |
 | [0931-minimum-falling-path-sum](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0935-knight-dialer) |
+| [0940-distinct-subsequences-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0956-tallest-billboard) |
 | [0968-binary-tree-cameras](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/0978-longest-turbulent-subarray) |
