@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3097-shortest-subarray-with-or-at-least-k-ii](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3097-shortest-subarray-with-or-at-least-k-ii) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3309-maximum-possible-number-by-binary-concatenation) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/AchalVishnoi/my_Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
